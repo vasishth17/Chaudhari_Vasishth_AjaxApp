@@ -1,4 +1,5 @@
-https://images.unsplash.com/photo-1655804439989-24758d6e96b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxlYXJidWRzfGVufDB8MHwwfHx8MA%3D%3D
+![image](https://github.com/vasishth17/Chaudhari_Vasishth_AjaxApp/assets/121986393/fa839867-fd02-471a-963c-d1dfe7880320)
+
 # Novo EarBuds
 
 Novo EarBuds is a web application that allows users to interact with 3D earbuds models and learn more about their features and materials. This README provides an overview of the project and instructions for setting it up.
