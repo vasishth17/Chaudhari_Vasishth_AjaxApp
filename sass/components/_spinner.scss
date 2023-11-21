@@ -1,0 +1,11 @@
+#custom-spinner {
+    display: block;
+    margin: auto; /* Center the SVG */
+    animation: spin 2s linear infinite; /* Apply the animation */
+    height: 160px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
