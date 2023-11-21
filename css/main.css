@@ -154,8 +154,8 @@ model-viewer > #ar-prompt > img {
 #custom-spinner {
   display: block;
   margin: auto; /* Center the SVG */
-  animation: spin 2s linear infinite; /* Apply the animation */
-  height: 160px;
+  animation: spin 6s linear infinite; /* Apply the animation */
+  height: 180px;
 }
 
 @keyframes spin {
