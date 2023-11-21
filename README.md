@@ -1,4 +1,5 @@
-                                      ![image](https://github.com/vasishth17/Chaudhari_Vasishth_AjaxApp/assets/121986393/fa839867-fd02-471a-963c-d1dfe7880320)
+![image](https://github.com/vasishth17/Chaudhari_Vasishth_AjaxApp/assets/121986393/efcc15ff-0e43-41ba-8dc5-c62c9cb0958d)
+
 
 # Novo EarBuds
 
